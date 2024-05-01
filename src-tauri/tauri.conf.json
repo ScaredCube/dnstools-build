@@ -44,7 +44,7 @@
       }
     },
     "bundle": {
-      "active": false,
+      "active": true,
       "targets": "all",
       "identifier": "top.xwsclub",
       "icon": [
